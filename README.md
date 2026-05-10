@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LAIS16S/LAIS16S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 LAIS SOUSA
 
-Here are some ideas to get you started:
+### 🔐 Cybersecurity • 🤖 Artificial Intelligence • 💻 Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Artificial+Intelligence+Enthusiast;Python+Learner;Future+Software+Engineer;Building+Projects+and+Learning+Everyday" />
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```python
+class LaisSousa:
+
+    def __init__(self):
+        self.location = "Brazil"
+        self.interests = [
+            "Cybersecurity",
+            "Artificial Intelligence",
+            "Software Engineering",
+            "Python"
+        ]
+
+    def goals_2026(self):
+        return [
+            "Build real-world projects",
+            "Improve programming skills",
+            "Grow in cybersecurity",
+            "Become a Software Engineer"
+        ]
+
+me = LaisSousa()  
