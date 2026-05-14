@@ -22,6 +22,8 @@ class LaisSousa:
             "Artificial Intelligence",
             "Software Engineering",
             "Python"
+            "Java"
+
         ]
 
     def goals_2026(self):
@@ -32,4 +34,4 @@ class LaisSousa:
             "Become a Software Engineer"
         ]
 
-me = LaisSousa()  
+me = LaisSousa()
