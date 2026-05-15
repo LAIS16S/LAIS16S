@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 LAIS SOUSA
+# 👾 LAIS 
 
 ### 🔐 Cybersecurity • 🤖 Artificial Intelligence • 💻 Software Engineering
 
@@ -17,6 +17,7 @@ class LaisSousa:
 
     def __init__(self):
         self.location = "Brazil"
+        self.old = 35 years old
         self.interests = [
             "Cybersecurity",
             "Artificial Intelligence",
