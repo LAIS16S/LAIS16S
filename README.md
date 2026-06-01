@@ -1,4 +1,4 @@
-# 💻 I'm Lais Sousa
+# 💻 Hi I'm Lais Sousa
 
 <div align="center">
 
