@@ -1,140 +1,82 @@
-# 💻   I'm Lais Sousa
+# 👋 Olá, eu sou a Lais Sousa!
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Artificial+Intelligence+Student;Software+Engineering+Learner;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+🚀 Estudante de Tecnologia | Desenvolvedora em formação | Apaixonada por aprender
 
 </div>
 
 ---
 
+## 💻 Sobre mim
+
+Sou uma pessoa curiosa, dedicada e sempre em busca de novos conhecimentos na área de tecnologia.
+
+Atualmente estou desenvolvendo minhas habilidades em programação, criando pequenos projetos e fortalecendo minha base em desenvolvimento de sistemas.
+
+Tenho interesse em crescer na área de **Desenvolvimento de Software** e também explorar o mundo da **Cibersegurança** 🔐.
+
+Acredito que tecnologia é feita de aprendizado contínuo, colaboração e criatividade.
+
+---
+
+## 🚀 Atualmente estudando
+
+🐍 Python  
+🌐 HTML5  
+🎨 CSS3  
+☕ Java  
+🗄️ Banco de Dados  
+🔐 Fundamentos de Cibersegurança  
+🧠 Lógica de Programação  
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
 <div align="center">
 
-### 🔐 Cybersecurity | 🤖 Artificial Intelligence | 💻 Software Engineering
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,mysql" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 📚 Meus objetivos para 2026
 
-I'm a technology enthusiast passionate about Cybersecurity, Artificial Intelligence, and Software Engineering.
-
-I enjoy learning new things, solving problems, and building projects that help me grow professionally and personally.
-
-✨ Cheerful  
-🤝 Collaborative  
-📚 Curious learner  
-💡 Creative thinker  
-🚀 Focused on continuous growth  
-
-Currently improving my skills in:
-
-- 🔐 Cybersecurity fundamentals
-- 🤖 Artificial Intelligence and automation
-- 💻 Software development with Python
-- 📚 Programming logic and problem-solving
-- ⚙️ Software Engineering concepts
+✨ Conseguir minha primeira oportunidade na área de tecnologia  
+✨ Evoluir como desenvolvedora  
+✨ Criar projetos reais para meu portfólio  
+✨ Aprender boas práticas de programação  
+✨ Conhecer mais sobre segurança da informação  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌱 Um pouco sobre mim
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,html,css,javascript" />
-
-</div>
-
----
-
-## 🔐 Cybersecurity Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
-</div>
-
-- Kali Linux  
-- Nmap  
-- Wireshark  
-- OWASP ZAP  
+😊 Alegre  
+🤝 Gosto de trabalhar em equipe  
+📚 Sempre buscando aprender algo novo  
+💡 Gosto de desafios e resolver problemas  
+🚀 Determinada a crescer na tecnologia  
 
 ---
 
-## 🤖 Artificial Intelligence
+## 📌 Projetos
 
-- Python
-- Pandas
-- Scikit-learn
-- Jupyter Notebook
+Aqui você vai encontrar meus estudos, desafios e projetos práticos enquanto evoluo na programação.
 
----
-
-## 📌 Current Focus
-
-🔭 I’m currently working on improving my skills in:
-
-- Cybersecurity
-- Artificial Intelligence
-- Software Engineering
-- Python Development
-- java Development
-
-Building practical projects and strengthening my programming logic every day.
+Cada projeto representa uma nova etapa da minha jornada 💙
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Vamos conectar?
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte-se-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-MeusProjetos-black?style=for-the-badge&logo=github)](SEU_LINK)
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🌎 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/laissoousa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🧠 Learning Journey
-
-I believe consistency is more important than perfection.
-
-Every project here represents part of my growth journey in technology, cybersecurity, artificial intelligence, and software engineering.
-
----
-
-<div align="center">
-
-⭐ “Learning something new every day.”
-
-</div>
-
+⭐ Obrigada pela visita!  
+⭐ “Learning something new every day.”🚀
