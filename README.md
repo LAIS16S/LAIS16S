@@ -121,7 +121,7 @@ Este GitHub representa minha evolução: estudos, exercícios, projetos, erros, 
 
 🐙 GitHub: "LAIS16S" (https://github.com/LAIS16S)
 
-💼 LinkedIn: "Meu LinkedIn" (#)
+💼 LinkedIn: "https://www.linkedin.com/in/lais-ciber" (#)
 
 ---
 
